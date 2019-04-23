@@ -1,5 +1,4 @@
 about.html 
-src/*  
 !src/style.css
 .DS_Store
 *.zip
