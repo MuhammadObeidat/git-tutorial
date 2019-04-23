@@ -1,5 +1,5 @@
 about.html 
-src/style.css
+!src/style.css
 .DS_Store
 *.zip
 password.txt
