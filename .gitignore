@@ -3,6 +3,7 @@ src/style.css
 .DS_Store
 *.zip
 password.txt
+LICENSE
 
 # src/* => this mean igonre all files inside src folder 
 # !src/style.css => ignore only style.css from src folder
